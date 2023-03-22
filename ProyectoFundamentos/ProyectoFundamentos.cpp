@@ -278,7 +278,6 @@ void opcionE(estudiantes* estudiantess, int n) {
 int main() {
     //<------------MÓDULO ESTUDIANTES------------>
      //Información de estudiantes
-
  
     int tam0 = 20;
     estudiantes* estudiantess = new estudiantes[tam0];
