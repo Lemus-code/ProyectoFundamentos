@@ -279,7 +279,6 @@ int main() {
     //<------------MÓDULO ESTUDIANTES------------>
      //Información de estudiantes
 
-    
     int tam0 = 20;
     estudiantes* estudiantess = new estudiantes[tam0];
     estudiantess[0] = { 1001, "Juan", "Gonzalez", "Guatemala", 95.5, true, 20 };
